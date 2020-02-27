@@ -16,3 +16,7 @@ npm run dev
 ```
 npm run build
 ```
+
+### 操作
+离摄像头远一点，在镜头中左右走动
+
